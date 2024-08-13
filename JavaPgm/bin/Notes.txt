@@ -1,0 +1,192 @@
+string is coming first and then plus symbol is there next part automatically convert into the string
+
+
+What is class ?
+
+class is a combination of Methods , objects and Constructor
+
+if anything is missing we cant execute our pgm
+
+Constructor name and class name should be same - that is mandatory
+
+what is object ?
+
+object is a replica of class or we can say blue print of class
+
+
+WebDriver driver = new ChromeDriver() //RTP
+
+Constructor/Method Over loading/Overriding/Inheritance/class and object
+
+
+Inheritance :- Aquaring a properties from other
+ - that i s called a Inheritance and we can achieve with the help of extends keyword in java
+ 
+ 
+ What is Multi level inheritance
+ 
+ step by step inheritance or we can say that generation to generation Transformation in relation that concept is called a Multi level
+ 
+ what is multiple Inheritance
+ 
+ if one class want to inherit more than one class at a time 
+ 
+ can we achieve multiple inheritance in java
+ 
+ No,we cant achieve at class level but we can achieve at interface level
+ 
+ 
+ what is the major difference in Multiple and Multi level inheritance
+ 
+ 
+ what is single inheritance and inheritance - child parent relation
+ 
+ 
+ what is Many to ONe Inheritance
+ 
+ 
+ what is one to Many Inheritance - Multiple inheritance - interface 
+ 
+IS- A relation
+
+Has - A relation
+
+Try to create one pgm for Currency related 
+
+
+Method Over riding  :- We have to apply same methods in different classes and we can achieve with the help of inheritance
+
+and remember implementation should be different
+
+
+
+
+Method Overloading :- We have to apply same methods in same class but parameter/Data type /Signature should be different
+
+Data type
+
+by default any whole number is Int
+
+int  Whole number    Medium Range
+long-- whole number  High Range
+short- whole number  less than int and higher than byte  //type casting
+byte-- whole number-- very less range
+
+
+by default any decimal value is double
+double-- decimal value -- High Range
+float-- decimal value--- low range
+
+char --- 'a' , 'b'
+boolean true and false
+
+String :- String is not a Data Type - it is a class - we can use like a data type -- ""
+
+
+constructor :- Class name and constructor name should be same
+
+if user is not creating any constructor - jvm will create default and blank constructor
+
+if user is creating any constructor - jvm will not create default and Blank constructor
+
+constructor doesnt contain any return type - like void 
+
+
+Polymorphism :- same object behaving different different instance through out the execution of the pgm
+that concept is called a Polymorphism
+
+Run Time Polymorphism -- Method Over riding , Inheritance and Upcasting
+
+
+Upcasting - trying to create a object of parent class and call child Constructor
+
+Compile Time Polymorphism --- Method Over loading
+
+
+Assignment - how we can say that compile time polymorphism is a part of Method Over loading
+
+
+
+
+Final KeyWord 
+
+1- final can be a class -  no one cant inherited 
+
+2 - final can be a methods - np pne cant override 
+
+3 -  final can be a variable - we cant reinitalize the value  = int i = 20 
+
+
+Super Keyword - Parent
+
+
+super can be a Variable
+
+super can be a Method
+
+Super can be a Constructor
+
+super- Parent -- we will use super along with inheritance only
+
+super and this constructor should be first statemnet 
+
+This Keyword - Current
+
+
+this can be a Method , Variable and Constructor
+
+
+Abstraction :- abstract is a keywork which we will use in class and method
+
+abstract class can contain non abstract method and abstract method
+
+if class is not abstract we cant declare abstract method
+
+abstract method means - unimplemented method or we can say no body of that method
+non abstract method - simple method with implementation
+
+if class is abstract we cant create a object that why abstract class is not a complete class
+
+in abstract class we cant achive 100% abstraction 
+
+
+Interface :- all method should be abstract - no scope for non abstract method 
+
+in interface we cant achieve 100% abstraction
+
+in interface no need to apply abstract keyword in method - by default it is abstract
+
+we cant create object of interface 
+
+
+class - class - extends
+interface - interface - extends
+interface - class - implements
+
+
+
+class inside class - nested ---- true
+
+class - interface --- true
+interface - class   --- true
+interface - interface  -- true
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
